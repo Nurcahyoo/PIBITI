@@ -335,6 +335,8 @@ body {
 
 .start-button {
   background-color: #2563eb;
+  margin-right: 1rem;
+  margin-top: 1rem;
   box-shadow: 0 4px 14px rgba(37, 99, 235, 0.4);
 }
 
